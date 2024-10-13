@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @EzaCandraputra
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Programming language
-- 💞️ I’m looking to collaborate on With friend
-- 📫 How to reach me With WhatsApp
+<h1>Halo perkenalkan nama saya Eza Candra Putra,kelas X PPLG 2</h1>
+<p>Tanggal lahir saya 19 september 2009</p>
+<h2>Hobi saya beermain game dan badminton</h2>
+<h2>Saya sekolah di SMK LETRIS Indonesia 2</h2>
